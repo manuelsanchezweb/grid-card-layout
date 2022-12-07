@@ -2,4 +2,4 @@
 
 ## Desploy
 
-https://grid-responsive-no-media-queries.netlify.app/
+https://grid-card-layout.netlify.app/
